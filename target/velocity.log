@@ -1,0 +1,22 @@
+2022-07-13 10:19:05,529 - Velocimacro : added VM includeImageReferenceEmbedding: source=/templates/macros/json/embeddings.vm
+2022-07-13 10:19:05,529 - Velocimacro : added VM includeTextEmbedding: source=/templates/macros/json/embeddings.vm
+2022-07-13 10:19:05,534 - Velocimacro : added VM includeUnknownEmbedding: source=/templates/macros/json/embeddings.vm
+2022-07-13 10:19:05,534 - ResourceManager : found /templates/macros/json/embeddings.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,538 - Velocimacro : added VM includeHooks: source=/templates/macros/json/hooks.vm
+2022-07-13 10:19:05,538 - ResourceManager : found /templates/macros/json/hooks.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,541 - Velocimacro : added VM includeOutput: source=/templates/macros/json/output.vm
+2022-07-13 10:19:05,541 - ResourceManager : found /templates/macros/json/output.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,542 - Velocimacro : added VM includeMessage: source=/templates/macros/json/message.vm
+2022-07-13 10:19:05,542 - ResourceManager : found /templates/macros/json/message.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,543 - Velocimacro : added VM includeSteps: source=/templates/macros/json/steps.vm
+2022-07-13 10:19:05,543 - ResourceManager : found /templates/macros/json/steps.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,544 - Velocimacro : added VM includeStepName: source=/templates/macros/json/stepName.vm
+2022-07-13 10:19:05,544 - ResourceManager : found /templates/macros/json/stepName.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,545 - Velocimacro : added VM includeTags: source=/templates/macros/json/tags.vm
+2022-07-13 10:19:05,545 - ResourceManager : found /templates/macros/json/tags.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2022-07-13 10:19:05,551 - VM #includeNavigation: too few arguments to macro. Wanted 1 got 0
+2022-07-13 10:19:05,551 - Left side ($active_tab) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. /templates/macros/page/navigation.vm[line 14, column 51]
+2022-07-13 10:19:05,551 - Left side ($active_tab) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. /templates/macros/page/navigation.vm[line 15, column 51]
+2022-07-13 10:19:05,551 - Left side ($active_tab) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. /templates/macros/page/navigation.vm[line 16, column 51]
+2022-07-13 10:19:05,551 - Left side ($active_tab) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. /templates/macros/page/navigation.vm[line 20, column 51]
+2022-07-13 10:19:05,564 - ResourceManager : found /templates/footer.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
